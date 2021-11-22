@@ -4,5 +4,7 @@ Guess your knowledge is a fun knowledge based game. This project is a word guess
 ## Language Used
  • c++
  
-## Screenshot
+## What have i learned
+
+### Screenshot
 
