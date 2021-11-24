@@ -4,7 +4,5 @@
 ## Language Used
  • c++
  
-## What have i learned
 
-### Screenshot
 
