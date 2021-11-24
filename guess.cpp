@@ -28,7 +28,7 @@ int main()
             "mexico",
             "france",
             "italy",
-            "southafrica",
+            "southafricas",
             "japan",
             "australia",
             "egypt",
